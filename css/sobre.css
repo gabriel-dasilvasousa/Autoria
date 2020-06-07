@@ -1,0 +1,25 @@
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}  
+.text-destaque {
+    text-align: center;
+}
+.text-destaque strong{
+    color: black;
+}
+.text-destaque h1{
+    font-size: 32px;
+    text-transform: uppercase;
+      color: brown;
+
+}
+.text-destaque p{
+    font-size: 16px;
+    color: brown;
+}
+.text-destaque p{
+    font-size: 16px;
+    color: brown;
+}

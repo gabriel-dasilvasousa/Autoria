@@ -1,0 +1,11 @@
+.tabela-imagens tr{
+    background-color:white;
+    margin-left: 2px color brown;
+    border: 1px
+}
+
+.tabela-imagens  img{
+    width: 313px;
+    border: 2px solid brown;
+}
+
